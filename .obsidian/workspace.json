@@ -23,8 +23,12 @@
             "id": "3e74540f227cbd32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Физика/Физика 8 класс/Физика 8 класс.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -126,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "686dcaa6a0ebd3b7",
@@ -142,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Учёба/Физика/Физика 8 класс/Физика 8 класс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Учёба/Физика/Физика 8 класс/Физика 8 класс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Учёба/Физика/Физика 8 класс/Физика 8 класс.md"
+              }
             }
           }
         ]
@@ -199,8 +208,7 @@
       "command-palette:Открыть палитру команд": false,
       "audio-recorder:Начать/остановить запись": false,
       "random-note:Открыть случайную заметку": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3e74540f227cbd32",
