@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"529df2eefc4b9757","type":"group","x":-132,"y":993,"width":400,"height":400,"label":"Ьакдк"},
+		{"id":"1738a941ccdad109","x":541,"y":752,"width":400,"height":400,"type":"link","url":"https://wikipedia.org"},
+		{"id":"32521a5d4581622a","type":"file","file":"Учёба/Физика/Физика 9 класс.md","x":137,"y":104,"width":400,"height":400},
+		{"id":"c3d155f75964545a","type":"text","text":"Аллуладмдадпдп\nПлалплпдалп\nПлалплпла","x":-145,"y":137,"width":250,"height":60,"color":"1"},
+		{"id":"4e9b64cffe1d8cfa","type":"text","text":"Пддклп","x":-165,"y":613,"width":250,"height":60},
+		{"id":"f13fa173453e993e","type":"text","text":"Лслвла","x":266,"y":873,"width":250,"height":60},
+		{"id":"f728a2365a68fae9","type":"text","text":"Аьклал","x":-640,"y":720,"width":240,"height":80}
+	],
+	"edges":[
+		{"id":"42aa9ff9f5a03a8e","fromNode":"c3d155f75964545a","fromSide":"bottom","toNode":"4e9b64cffe1d8cfa","toSide":"top"},
+		{"id":"c7ad016ac020d1fb","fromNode":"4e9b64cffe1d8cfa","fromSide":"right","toNode":"f13fa173453e993e","toSide":"left"},
+		{"id":"71ca2fa671094ba9","fromNode":"c3d155f75964545a","fromSide":"left","toNode":"f728a2365a68fae9","toSide":"right"}
+	]
+}

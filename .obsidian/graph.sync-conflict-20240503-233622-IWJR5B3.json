@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Физика  ",
+      "color": {
+        "a": 1,
+        "rgb": 1938993
+      }
+    },
+    {
+      "query": "tag:#УЧЁБА  ",
+      "color": {
+        "a": 1,
+        "rgb": 2668726
+      }
+    },
+    {
+      "query": "tag:#Rindou  ",
+      "color": {
+        "a": 1,
+        "rgb": 10878976
+      }
+    },
+    {
+      "query": "tag:#письмо  ",
+      "color": {
+        "a": 1,
+        "rgb": 10059074
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.60153125,
+  "repelStrength": 8.93,
+  "linkStrength": 0.50396875,
+  "linkDistance": 30,
+  "scale": 1.5779822480828272,
+  "close": true
+}

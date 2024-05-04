@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "03f4d71095b47d88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b751bb1bd353751e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfe97830dd2812fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Англ/Англ. Слова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e74540f227cbd32",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "439ab002be4ddd87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Англ/Англ. Слова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1972d93dc3d6c9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cf253fb1b51c4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Физика/Физика 9 класс/Законы взаимодействия и движения тел.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a180fff401eb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рандом/Мат.функции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48c1c135e1e65f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06bd365290ab4167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d769198b781888f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "207d177ae03fca9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f92f1598864947d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "686dcaa6a0ebd3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c27dc151899afd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5b67f56fad193f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29591b21d1ba8472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "add928ba8f86ef73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de9fc05374b1c4cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "3e74540f227cbd32",
+  "lastOpenFiles": [
+    "Учёба/Физика/ФИЗИКА.md",
+    "Рандом/Вскрытие трупа по Шору.md",
+    "Rindou Dost/Личности/Николай Ефимов.md",
+    "Rindou Dost/Личности/Алиса Достоевская.md",
+    "Письма/04.05.24.md",
+    "Англ/Англ. Слова.md",
+    "Rindou Dost/Пароль от Wi-Fi.md",
+    "Письма/Письма.md",
+    "Рандом/Мат.функции.md",
+    "Англ",
+    "Криптография/Криптография.md",
+    "Письма/03.05.24.md",
+    "Письма/02.05.24.md",
+    "Письма",
+    "Криптография/~syncthing~Криптография.md.tmp",
+    "Криптография",
+    "Учёба/Физика/Физика 9 класс/Физика 9 класс.md",
+    "Учёба/Физика/Физика 8 класс/Физика 8 класс.md",
+    "Конспект8.md",
+    "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
+    "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
+    "Учёба/Физика/Физика 7 класс/Конспект7.md",
+    "Rindou Dost/Идея Исповеди.md",
+    "Учёба/Физика/Физика 9 класс/Конспект 9.md",
+    "Учёба/Физика/Физика 8 класс/Конспект8.md",
+    "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
+    "Учёба/Физика/Физика 9 класс/Строение и эволюция вселенной.md",
+    "Учёба/Физика/Физика 9 класс/Строение атома и использование энергии ядер.md",
+    "Учёба/Физика/Физика 9 класс/Механические колебания и волны.md",
+    "Учёба/Физика/Физика 9 класс/Законы взаимодействия и движения тел.md",
+    "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
+    "Учёба/Физика/Физика 10 класс",
+    "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
+    "Учёба/Физика/Физика 9 класс",
+    "Учёба/Физика/Физика 8 класс",
+    "Учёба/Физика/Физика 7 класс",
+    "Excalidraw"
+  ]
+}

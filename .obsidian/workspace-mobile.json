@@ -1,0 +1,345 @@
+{
+  "main": {
+    "id": "659e0d0c02074d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f9a552e649d3851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c807326e1b8619",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a538285da99f758",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Письма/Письма.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            },
+            "group": "624229b652cdf9f9"
+          },
+          {
+            "id": "df8e23e16821da8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "ce956034e438f051"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e5aa8d935ec71477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec293db7e9ae905",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Письма/Письма.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "624229b652cdf9f9"
+          },
+          {
+            "id": "aa5ec44d3baad900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d21a541c0e0076",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "056d6cb40dd77814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c131b4f7b5371e5d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.5346266070876047,
+                  "close": false
+                }
+              }
+            },
+            "group": "ce956034e438f051"
+          }
+        ]
+      },
+      {
+        "id": "72eec79c97807d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c7eda4a351b6d0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Письма/Письма.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "624229b652cdf9f9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d2863df348ed628",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "89b8ce9b2ab0f7bf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3425d8ceb5c62e40",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Физика",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "67f4f19995e9ad88",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1f7b0afb2bb67ba4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8d32d594bc0836d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "76189a1e8f8cea15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "Обозначение",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "47ccce81ac0dc047",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5edb3283f42a5817",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "audio-recorder:Начать/остановить запись": false
+    }
+  },
+  "active": "97d21a541c0e0076",
+  "lastOpenFiles": [
+    "Криптография/Криптография.md",
+    "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
+    "Криптография",
+    "Учёба/Физика/Физика 9 класс/Физика 9 класс.md",
+    "Учёба/Физика/Физика 9 класс/Законы взаимодействия и движения тел.md",
+    "Учёба/Физика/Физика 9 класс/Строение и эволюция вселенной.md",
+    "Guide по математическим функциям.md",
+    "Учёба/Физика/Физика 9 класс/Строение атома и использование энергии ядер.md",
+    "Учёба/Физика/Физика 9 класс/Механические колебания и волны.md",
+    "Учёба/Физика/Физика 9 класс.md",
+    "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
+    "Учёба/Физика/Физика 8 класс/Световые явления.md",
+    "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
+    "Учёба/Физика/Физика 7 класс/Давление.md",
+    "Учёба/Физика/Физика 7 класс/Конспект7.md",
+    "Учёба/Физика/Физика 7 класс/Взаимодействие тел.md",
+    "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
+    "Учёба/Физика/Физика 8 класс/Электрические явления.md",
+    "Учёба/Физика/Физика 8 класс/Конспект8.md",
+    "Учёба/Физика/Физика 7 класс/Введение.md",
+    "Рандом/Немножко анатомии.md",
+    "Учёба/Физика/Физика 8 класс/Тепловые явления.md",
+    "Учёба/Физика/Физика 8 класс/Физика 8 класс.md",
+    "Rindou Dost/РИс.excalidraw.md",
+    "Учёба/Физика/Физика 10 класс/Физика 10 класс.md",
+    "Учёба/Физика/Физика 7 класс/Базовые сведения о строении вещества.md",
+    "Учёба/Физика/Физика 7 класс/Работа и мощность.md",
+    "Учёба/Физика/Физика 9 класс",
+    "Учёба/Физика/Физика 8 класс",
+    "Учёба/Физика/Физика 7 класс",
+    "Учёба/Физика/Физика 10 класс",
+    "Rindou Dost/Личности/Алексей Некрасов.md",
+    "Rindou Dost/Личности",
+    "Рандом",
+    "Тестовый Холст.canvas",
+    "Без названия2_20230929232013.png",
+    "Письма",
+    "Rindou Dost",
+    "Математика"
+  ]
+}
