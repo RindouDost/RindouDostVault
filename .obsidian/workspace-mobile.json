@@ -256,6 +256,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Письма/Письма.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -272,6 +273,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Письма/Письма.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -282,14 +284,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Письма/Письма.md"
+          }
         }
       }
     ]
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -297,10 +300,11 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "random-note:Открыть случайную заметку": false,
-      "audio-recorder:Начать/остановить запись": false
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97d21a541c0e0076",
+  "active": "9a538285da99f758",
   "lastOpenFiles": [
     "Криптография/Криптография.md",
     "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
