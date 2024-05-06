@@ -100,8 +100,12 @@
             "id": "97d21a541c0e0076",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rindou Dost/Пароль от Wi-Fi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -255,6 +259,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Rindou Dost/Пароль от Wi-Fi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -271,6 +276,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Rindou Dost/Пароль от Wi-Fi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -281,7 +287,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Rindou Dost/Пароль от Wi-Fi.md"
+          }
         }
       }
     ]
