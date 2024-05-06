@@ -100,12 +100,8 @@
             "id": "97d21a541c0e0076",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Субкультуры.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -259,7 +255,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Субкультуры.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -276,7 +271,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Субкультуры.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -287,9 +281,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Субкультуры.md"
-          }
+          "state": {}
         }
       }
     ]
@@ -309,9 +301,9 @@
   },
   "active": "97d21a541c0e0076",
   "lastOpenFiles": [
+    "Субкультуры.md",
     "Идеологии.md",
     "Учёба/Физика/Физика 7 класс/Работа и мощность.md",
-    "Субкультуры.md",
     "05.05.24.md",
     "Письма/Письма.md",
     "/Письма/Письма.md",
