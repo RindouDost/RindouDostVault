@@ -100,8 +100,12 @@
             "id": "97d21a541c0e0076",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05.05.24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -255,7 +259,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Письма/Письма.md",
+            "file": "05.05.24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -272,7 +276,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Письма/Письма.md",
+            "file": "05.05.24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -284,7 +288,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Письма/Письма.md"
+            "file": "05.05.24.md"
           }
         }
       }
@@ -303,8 +307,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a538285da99f758",
+  "active": "97d21a541c0e0076",
   "lastOpenFiles": [
+    "Письма/Письма.md",
+    "05.05.24.md",
     "/Письма/Письма.md",
     "Криптография/Криптография.md",
     "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
@@ -331,8 +337,6 @@
     "Учёба/Физика/Физика 8 класс/Физика 8 класс.md",
     "Rindou Dost/РИс.excalidraw.md",
     "Учёба/Физика/Физика 10 класс/Физика 10 класс.md",
-    "Учёба/Физика/Физика 7 класс/Базовые сведения о строении вещества.md",
-    "Учёба/Физика/Физика 7 класс/Работа и мощность.md",
     "Учёба/Физика/Физика 9 класс",
     "Учёба/Физика/Физика 8 класс",
     "Учёба/Физика/Физика 7 класс",
