@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rindou Dost/Пароль от Wi-Fi.md",
+                "file": "Rindou Dost/Идея Исповеди.md",
                 "mode": "source",
                 "source": false
               }
@@ -247,7 +247,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "8d32d594bc0836d4",
@@ -259,7 +260,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rindou Dost/Пароль от Wi-Fi.md",
+            "file": "Rindou Dost/Идея Исповеди.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -276,7 +277,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rindou Dost/Пароль от Wi-Fi.md",
+            "file": "Rindou Dost/Идея Исповеди.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -288,7 +289,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rindou Dost/Пароль от Wi-Fi.md"
+            "file": "Rindou Dost/Идея Исповеди.md"
           }
         }
       }
@@ -309,6 +310,8 @@
   },
   "active": "97d21a541c0e0076",
   "lastOpenFiles": [
+    "Rindou Dost/Пароль от Wi-Fi.md",
+    "/Rindou Dost/Идея Исповеди.md",
     "Письма/06.05.24.md",
     "/Письма/Письма.md",
     "/Письма/06.05.24.md",
@@ -334,9 +337,7 @@
     "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
     "Учёба/Физика/Физика 7 класс/Давление.md",
     "Учёба/Физика/Физика 7 класс/Конспект7.md",
-    "Учёба/Физика/Физика 7 класс/Взаимодействие тел.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
-    "Учёба/Физика/Физика 8 класс/Электрические явления.md",
     "Учёба/Физика/Физика 9 класс",
     "Учёба/Физика/Физика 8 класс",
     "Учёба/Физика/Физика 7 класс",
