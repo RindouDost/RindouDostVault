@@ -23,12 +23,8 @@
             "id": "3e74540f227cbd32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rindou Dost/Идея Исповеди.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rindou Dost/Идея Исповеди.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rindou Dost/Идея Исповеди.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rindou Dost/Идея Исповеди.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,11 +198,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "audio-recorder:Начать/остановить запись": false,
-      "random-note:Открыть случайную заметку": false
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3e74540f227cbd32",
   "lastOpenFiles": [
+    "Rindou Dost/Идея Исповеди.md",
     "Письма/06.05.24.md",
     "Письма/Письма.md",
     "Письма/05.05.24.md",
@@ -237,7 +231,6 @@
     "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
     "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
     "Учёба/Физика/Физика 7 класс/Конспект7.md",
-    "Rindou Dost/Идея Исповеди.md",
     "Учёба/Физика/Физика 9 класс/Конспект 9.md",
     "Учёба/Физика/Физика 8 класс/Конспект8.md",
     "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
