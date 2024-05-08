@@ -206,8 +206,7 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "audio-recorder:Начать/остановить запись": false,
-      "random-note:Открыть случайную заметку": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "random-note:Открыть случайную заметку": false
     }
   },
   "active": "3e74540f227cbd32",
