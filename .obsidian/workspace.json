@@ -23,12 +23,8 @@
             "id": "3e74540f227cbd32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.05.24.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.05.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.05.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "08.05.24.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -212,8 +204,8 @@
   },
   "active": "3e74540f227cbd32",
   "lastOpenFiles": [
+    "Письма/08.05.24.md",
     "!05.05.md",
-    "08.05.24.md",
     "Письма/Письма.md",
     "Rindou Dost/Семилетний план.md",
     "Rindou Dost/Идея Исповеди.md",
