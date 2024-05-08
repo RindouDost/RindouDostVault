@@ -23,8 +23,12 @@
             "id": "3e74540f227cbd32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "08.05.24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "08.05.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "08.05.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "08.05.24.md"
+              }
             }
           }
         ]
@@ -204,9 +212,11 @@
   },
   "active": "3e74540f227cbd32",
   "lastOpenFiles": [
+    "Письма/Письма.md",
+    "08.05.24.md",
+    "Rindou Dost/Семилетний план.md",
     "Rindou Dost/Идея Исповеди.md",
     "Письма/06.05.24.md",
-    "Письма/Письма.md",
     "Письма/05.05.24.md",
     "Субкультуры.md",
     "Идеологии.md",
@@ -232,8 +242,6 @@
     "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
     "Учёба/Физика/Физика 7 класс/Конспект7.md",
     "Учёба/Физика/Физика 9 класс/Конспект 9.md",
-    "Учёба/Физика/Физика 8 класс/Конспект8.md",
-    "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
     "Учёба/Физика/Физика 10 класс",
     "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
