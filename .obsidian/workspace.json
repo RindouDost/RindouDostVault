@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+                "file": "ИнфЕГЭ.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+                "file": "ИнфЕГЭ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+                "file": "ИнфЕГЭ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md"
+                "file": "ИнфЕГЭ.md"
               }
             }
           }
@@ -174,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d769198b781888f4",
+  "active": "aec8306a1bbb2d8b",
   "lastOpenFiles": [
-    "Англ/Англ. Слова.md",
     "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+    "ИнфЕГЭ.md",
+    "Англ/Англ. Слова.md",
     "Подготовка к ЕГЭ",
     "Англ/Английский язык.md",
     "Rindou Dost/Пароль от Wi-Fi.md",
@@ -206,7 +207,6 @@
     "Криптография",
     "Учёба/Физика/Физика 9 класс/Физика 9 класс.md",
     "Конспект8.md",
-    "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
     "Учёба/Физика/Физика 10 класс",
     "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
