@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfe97830dd2812fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Англ/Англ. Слова.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e74540f227cbd32",
             "type": "leaf",
             "state": {
@@ -30,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "439ab002be4ddd87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Англ/Англ. Слова.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1972d93dc3d6c9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cf253fb1b51c4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Физика/Физика 9 класс/Законы взаимодействия и движения тел.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a180fff401eb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рандом/Мат.функции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
