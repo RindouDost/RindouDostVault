@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cd7c1bb8a1f2401",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Англ/Англ. Слова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Англ/Англ. Слова.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Англ/Англ. Слова.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +154,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e74540f227cbd32",
+  "active": "5cd7c1bb8a1f2401",
   "lastOpenFiles": [
+    "Англ/Английский язык.md",
+    "Англ/Англ. Слова.md",
     "Rindou Dost/Пароль от Wi-Fi.md",
     "Письма/08.05.24.md",
     "!05.05.md",
@@ -167,7 +174,6 @@
     "Rindou Dost/Личности/Николай Ефимов.md",
     "Rindou Dost/Личности/Алиса Достоевская.md",
     "Письма/04.05.24.md",
-    "Англ/Англ. Слова.md",
     "Рандом/Мат.функции.md",
     "Англ",
     "Криптография/Криптография.md",
@@ -180,7 +186,6 @@
     "Конспект8.md",
     "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
     "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
-    "Учёба/Физика/Физика 7 класс/Конспект7.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
     "Учёба/Физика/Физика 10 класс",
     "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
