@@ -23,12 +23,28 @@
             "id": "5cd7c1bb8a1f2401",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Англ/Англ. Слова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aec8306a1bbb2d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md"
+              }
             }
           }
         ]
@@ -154,10 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cd7c1bb8a1f2401",
+  "active": "d769198b781888f4",
   "lastOpenFiles": [
-    "Англ/Английский язык.md",
     "Англ/Англ. Слова.md",
+    "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+    "Подготовка к ЕГЭ",
+    "Англ/Английский язык.md",
     "Rindou Dost/Пароль от Wi-Fi.md",
     "Письма/08.05.24.md",
     "!05.05.md",
@@ -185,13 +207,11 @@
     "Учёба/Физика/Физика 9 класс/Физика 9 класс.md",
     "Конспект8.md",
     "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
-    "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
     "Учёба/Физика/Физика 10 класс",
     "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
     "Учёба/Физика/Физика 9 класс",
     "Учёба/Физика/Физика 8 класс",
-    "Учёба/Физика/Физика 7 класс",
-    "Excalidraw"
+    "Учёба/Физика/Физика 7 класс"
   ]
 }
