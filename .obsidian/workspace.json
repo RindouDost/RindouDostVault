@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfe97830dd2812fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Англ/Англ. Слова.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e74540f227cbd32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rindou Dost/Идея Исповеди.md",
+                "file": "Англ/Англ. Слова.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "439ab002be4ddd87",
+            "id": "5cd7c1bb8a1f2401",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,43 +32,31 @@
             }
           },
           {
-            "id": "1972d93dc3d6c9b9",
+            "id": "aec8306a1bbb2d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
+                "file": "Подготовка к ЕГЭ/ИнфЕГЭ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0cf253fb1b51c4f0",
+            "id": "32744be1a1e59b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Физика/Физика 9 класс/Законы взаимодействия и движения тел.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a180fff401eb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рандом/Мат.функции.md",
+                "file": "Подготовка к ЕГЭ/ИнфЕГЭ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rindou Dost/Идея Исповеди.md",
+                "file": "Подготовка к ЕГЭ/ИнфЕГЭ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rindou Dost/Идея Исповеди.md",
+                "file": "Подготовка к ЕГЭ/ИнфЕГЭ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rindou Dost/Идея Исповеди.md"
+                "file": "Подготовка к ЕГЭ/ИнфЕГЭ.md"
               }
             }
           }
@@ -210,10 +186,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e74540f227cbd32",
+  "active": "32744be1a1e59b05",
   "lastOpenFiles": [
-    "Письма/06.05.24.md",
+    "Рандом/Callout.md",
+    "Подготовка к ЕГЭ/ИнфЕГЭ.md",
+    "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
+    "Англ/Англ. Слова.md",
+    "Подготовка к ЕГЭ",
+    "Англ/Английский язык.md",
+    "Rindou Dost/Пароль от Wi-Fi.md",
+    "Письма/08.05.24.md",
+    "!05.05.md",
     "Письма/Письма.md",
+    "Rindou Dost/Семилетний план.md",
+    "Rindou Dost/Идея Исповеди.md",
+    "Письма/06.05.24.md",
     "Письма/05.05.24.md",
     "Субкультуры.md",
     "Идеологии.md",
@@ -223,8 +210,6 @@
     "Rindou Dost/Личности/Николай Ефимов.md",
     "Rindou Dost/Личности/Алиса Достоевская.md",
     "Письма/04.05.24.md",
-    "Англ/Англ. Слова.md",
-    "Rindou Dost/Пароль от Wi-Fi.md",
     "Рандом/Мат.функции.md",
     "Англ",
     "Криптография/Криптография.md",
@@ -234,20 +219,11 @@
     "Криптография/~syncthing~Криптография.md.tmp",
     "Криптография",
     "Учёба/Физика/Физика 9 класс/Физика 9 класс.md",
-    "Конспект8.md",
-    "Учёба/Физика/Физика 8 класс/Электромагнитные явления.md",
-    "Учёба/Физика/Физика 7 класс/Физика 7 класс.md",
-    "Учёба/Физика/Физика 7 класс/Конспект7.md",
-    "Rindou Dost/Идея Исповеди.md",
-    "Учёба/Физика/Физика 9 класс/Конспект 9.md",
-    "Учёба/Физика/Физика 8 класс/Конспект8.md",
-    "Учёба/Физика/Физика 9 класс/Электромагнитное поле.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
     "Учёба/Физика/Физика 10 класс",
     "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
     "Учёба/Физика/Физика 9 класс",
     "Учёба/Физика/Физика 8 класс",
-    "Учёба/Физика/Физика 7 класс",
-    "Excalidraw"
+    "Учёба/Физика/Физика 7 класс"
   ]
 }
