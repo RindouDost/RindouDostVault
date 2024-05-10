@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32744be1a1e59b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рандом/Callout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИнфЕГЭ.md",
+                "file": "Рандом/Callout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИнфЕГЭ.md",
+                "file": "Рандом/Callout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИнфЕГЭ.md"
+                "file": "Рандом/Callout.md"
               }
             }
           }
@@ -174,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aec8306a1bbb2d8b",
+  "active": "32744be1a1e59b05",
   "lastOpenFiles": [
-    "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
     "ИнфЕГЭ.md",
+    "Рандом/Callout.md",
+    "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
     "Англ/Англ. Слова.md",
     "Подготовка к ЕГЭ",
     "Англ/Английский язык.md",
@@ -206,7 +219,6 @@
     "Криптография/~syncthing~Криптография.md.tmp",
     "Криптография",
     "Учёба/Физика/Физика 9 класс/Физика 9 класс.md",
-    "Конспект8.md",
     "Rindou Dost/Снимок экрана 2024-04-15 175029.png",
     "Учёба/Физика/Физика 10 класс",
     "Учёба/Физика/Физика 7 класс/Физика 8 класс 1",
