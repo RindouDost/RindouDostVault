@@ -24,3 +24,7 @@
 >>[!todo]- Yep... they could be...
 >>>[!example]- Very multilayer...
 
+>[!warning]
+>WARNING CALLOUT
+
+>[!error]
