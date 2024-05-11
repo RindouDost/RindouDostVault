@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Подготовка к ЕГЭ/ИнфЕГЭ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32744be1a1e59b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Rindou Dost/Rindou Dost Degan.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,10 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32744be1a1e59b05",
+  "active": "aec8306a1bbb2d8b",
   "lastOpenFiles": [
-    "Локация.md",
     "Подготовка к ЕГЭ/ИнфЕГЭ.md",
+    "2024-05-11.md",
+    "Rindou Dost/Rindou Dost Degan.md",
+    "Локация.md",
     "Рандом/Callout.md",
     "Подготовка к ЕГЭ/Подготовка к ЕГЭ.md",
     "Англ/Англ. Слова.md",
@@ -214,8 +204,6 @@
     "Рандом/Мат.функции.md",
     "Англ",
     "Криптография/Криптография.md",
-    "Письма/03.05.24.md",
-    "Письма/02.05.24.md",
     "Письма",
     "Криптография/~syncthing~Криптография.md.tmp",
     "Криптография",
